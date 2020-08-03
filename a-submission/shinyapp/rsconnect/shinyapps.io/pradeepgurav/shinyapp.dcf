@@ -1,0 +1,12 @@
+name: shinyapp
+title: shinyapp
+username:
+account: pradeepgurav
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2633245
+bundleId: 3467817
+url: https://pradeepgurav.shinyapps.io/shinyapp/
+when: 1596434939.64066
+asMultiple: FALSE
+asStatic: FALSE
